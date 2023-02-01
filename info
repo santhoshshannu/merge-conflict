@@ -1,4 +1,10 @@
+<<<<<<< HEAD
 git conflict
 this is practice of developer
 clone two projects in first instance
+=======
+git conflicts
+this is practice on git conflicts 
+clone two projects in second instance
+>>>>>>> 256c4010666b8035bba4c1203040b8bd40d652fd
 push instance to linux
